@@ -1,0 +1,68 @@
+.navbar-brand{
+    font-size: 30px;
+    font-weight: 600;
+}
+.nav-item{
+    font-size: 25px;
+    padding: 10px;
+
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #252525;
+}
+.navbar{
+    box-shadow: 2px 2px 5px #3292a6;
+    background: #fff;
+    opacity: 0.9;
+}
+
+#showcase{
+    padding-top: 100px;
+    background-image: url('../img/showcase.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    min-height: 600px;
+}
+.primary-overlay{
+    background: rgba(50, 146, 156, 0.7);
+      opacity: 0.9;
+      min-height: 600px;
+      margin-top: -7px;
+    }
+
+#subscribe{
+    background-color: #252525;
+}
+
+.primary-color{
+    background-color: #3292a6 ;
+}
+
+.authors-body img{
+        margin: -70px;
+    }
+
+.social-item{
+    margin: 0px;
+    float: left;
+    font-size: 20px;
+} 
+
+.social-item a{
+    display: block;
+} 
+
+ .card:hover {
+    background: #3292a6;
+    color: #fff; 
+}   
+a:hover {
+    color: #fff; 
+    font-size: 22px;
+}
+
+a{
+  color: #252525;
+}
+
